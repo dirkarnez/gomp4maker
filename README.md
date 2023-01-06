@@ -1,0 +1,2 @@
+- [5分钟入门MP4文件格式 - 程序猿小卡 - 博客园](https://www.cnblogs.com/chyingp/p/mp4-file-format.html)
+- [go-mp4: Golang Library and CLI Tool for MP4 - DEV Community 👩‍💻👨‍💻](https://dev.to/sunfishshogi/go-mp4-golang-library-and-cli-tool-for-mp4-52o1)   
